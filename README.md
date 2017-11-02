@@ -80,6 +80,4 @@ This sample is licensed under the terms of the [MIT License](http://opensource.o
 Please see the [LICENSE](LICENSE) file for full details.
 
 ## Written by
-Bastien Mazeran
-
-Autodesk Premium Support Services
+Bastien Mazeran, Autodesk Premium Support Services
