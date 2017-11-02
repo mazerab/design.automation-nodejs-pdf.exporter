@@ -1,6 +1,6 @@
 # Export to PDF
 
-![alt text](https://git.autodesk.com/mazerab/fusion360appstore-design.automation-nodejs-pdf.exporter/blob/master/www/img/export%20to%20PDF.png)
+![alt text](https://github.com/mazerab/design.automation-nodejs-pdf.exporter/blob/master/www/img/export%20to%20PDF.png)
 
 # Description
 
