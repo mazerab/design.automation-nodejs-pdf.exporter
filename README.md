@@ -81,4 +81,5 @@ Please see the [LICENSE](LICENSE) file for full details.
 
 ## Written by
 Bastien Mazeran
+
 Autodesk Premium Support Services
