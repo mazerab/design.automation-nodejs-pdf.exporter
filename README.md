@@ -20,7 +20,7 @@ Install [NodeJS](https://nodejs.org).
 
 Clone this project or download it. It's recommended to install [GitHub desktop](https://desktop.github.com/). To clone it via command line, use the following (**Terminal** on MacOSX/Linux, **Git Shell** on Windows):
 
-    git clone https://github.com/wallabyway/bim360appstore-pdf-exporter
+    git clone https://github.com/mazerab/design.automation-nodejs-pdf.exporter
 
 To run it, install the required packages, set the enviroment variables with your callback URL, client ID & secret and finally start it. Via command line, navigate to the folder where this repository was cloned and use the following:
 
