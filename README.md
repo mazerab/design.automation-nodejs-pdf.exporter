@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/mazerab/design.automation-nodejs-pdf.exporter/blob/master/www/img/export%20to%20PDF.png)
 
+This code sample is deprecated, please use V3 Forge Design Automation API. To print to PDF, please follow the instructions [here](https://forge.autodesk.com/blog/beginners-guide-design-automation-visual-studio-code).
+
 # Description
 
 This sample application demonstrates how to plot an AutoCAD drawing on your BIM360 or Fusion account, into a PDF document.  The sample code demonstates 3-legged OAuth to BIM360 / Fusion, a simple viewer extension and code to convert AutoCAD drawing into a PDF document file.
