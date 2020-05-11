@@ -1,4 +1,4 @@
-This code sample is *deprecated*, please use V3 Forge Design Automation API. To print to PDF, please follow the instructions [here](https://forge.autodesk.com/blog/beginners-guide-design-automation-visual-studio-code).
+This code sample is **deprecated**, please use V3 Forge Design Automation API. To print to PDF, please follow the instructions [here](https://forge.autodesk.com/blog/beginners-guide-design-automation-visual-studio-code).
 
 # Export to PDF
 
